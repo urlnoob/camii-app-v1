@@ -179,8 +179,8 @@ const PrayerTimesDisplay = () => {
         <div className="bg-gray-800/95 p-6 rounded-lg mb-4 flex justify-between items-center">
           <div className="flex items-center">
             <Image
-              src="/mosque-logo.png"
-              alt="Mosque Logo"
+              src="/STADTOLDENDORF.png"
+              alt="S-Dorf Camii Logo"
               width={64}
               height={64}
               className="mr-4"
